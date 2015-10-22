@@ -1,1 +1,1 @@
-This is a testing home page
+This is Ming's personal wiki. 
