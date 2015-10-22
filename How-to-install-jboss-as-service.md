@@ -1,1 +1,1 @@
-****This is a note created to keep the note regarding the creating jboss as a service running in Ubuntu.****
+**This is a note created to keep the note regarding the creating jboss as a service running in Ubuntu.**
