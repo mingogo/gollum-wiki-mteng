@@ -1,1 +1,1 @@
-[[]]
+[[How to determine which group a user belongs to in Ubuntu]]
