@@ -1,5 +1,4 @@
 Ming's personal wiki
-============================
 
 ![w](https://s3-us-west-2.amazonaws.com/wiki-image-mteng/w.png)
 
