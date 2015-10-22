@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 # Markdown cheatsheet
 ## H2
 ### H3
