@@ -1,5 +1,6 @@
 [[_TOC_]]
 
+[Or you can take a look at this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
 # Markdown cheatsheet
 ## H2
 ### H3
