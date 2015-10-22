@@ -1,6 +1,7 @@
 [[_TOC_]]
 
 [Or you can take a look at this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
+
 # Markdown cheatsheet
 ## H2
 ### H3
@@ -135,8 +136,4 @@ Asterisks
 ___
 
 Underscores
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
