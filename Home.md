@@ -1,3 +1,5 @@
 ### This is Ming's personal wiki. 
 
+![w](https://s3-us-west-2.amazonaws.com/wiki-image-mteng/w.png?X-Amz-Date=20151022T194517Z&X-Amz-Expires=300&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Signature=abb853971418ca690afe4cf0baf88c8a63399a0e916c7f21a8fb042c22d3dfb4&X-Amz-Credential=ASIAJ6GIEOJHXKIBT7JA/20151022/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=Host&x-amz-security-token=AQoDYXdzEN3//////////wEakAL9JJbRchY8V8eLmnBw%2BdtCrW3qcylbH89gHkK/NXUNzdPDIyv%2Bx6CtnINSDjEdhH46u2R2wPDJh4oofcrU41IQpetGFt89K%2B67QZlQazBr02GwK8zND41n%2BVrkT57v1croK%2BOoaY0OZ62GDsoqTiRk5Y84JYMD2VFZwsh2si2Xw%2BixA9fhs0XgJG8N4Um/9MOTffPZ85sAHwF%2BII80tlppWNNyMtwtMrp/qBtsAjhohGqB4CMPscDbl8ET65QphfmystamSeiXrsKXr1ojX1WfBe/tLGwL9xXcWpNmm93SKRhsFjedw1x8yHFQgBsQut45Mqd5fsInJnuRNrDZtCBNthDE6WCw7WGfrJ%2B7vb2imSDx/qOxBQ%3D%3D)
+
 It serves me since I have a crappy memory. 
