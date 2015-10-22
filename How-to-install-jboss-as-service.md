@@ -1,1 +1,1 @@
-**This is a note created to keep the note regarding the creating jboss as a service running in Ubuntu.**
+[Enter this link](https://gesker.wordpress.com/2015/02/17/quick-install-wildfly-8-2-0-on-ubuntu-14-04/)
