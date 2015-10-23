@@ -1,3 +1,4 @@
 ## Ming's Wiki
 
->Information is not knowledge. -Albert Einstein
+>Information is not knowledge. 
+>                  ~Albert Einstein
