@@ -1,3 +1,3 @@
-##Ming's personal wiki
+## MingWiki
 
 It serves me since I have a crappy memory. 
