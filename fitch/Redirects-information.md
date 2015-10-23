@@ -1,5 +1,7 @@
 Replaced - Fitch Wire Charts	/web_content/images/fw/fw-chart-XXX.htm
 Redirect to https://www.fitchratings.com/fitchwire
+
+
 Replaced - Bank AT1 Tracker Tool (Legacy)	/web_content/pages/banks/at1-tracker-tool.htm
 Redirect to https://www.fitchratings.com/banks/at1
 Replaced - CLO Indenture Abstracts	/web_content/pages/cdo/indenture_abstracts.htm
