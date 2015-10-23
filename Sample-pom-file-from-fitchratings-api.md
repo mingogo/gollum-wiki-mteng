@@ -1,4 +1,4 @@
-# sample pom file from fitchratings-api using Spring boot
+## sample pom file from fitchratings-api using Spring boot
 ```java
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
