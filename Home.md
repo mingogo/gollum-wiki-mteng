@@ -3,8 +3,9 @@
 >Information is not knowledge. ~Albert Einstein
 
 {{{{{{ napkin
-    Information->+Knowledge: Transfer
-    knowledge-->Information:done
+information->+knowledge: Transfer
+note right of knowledge:think about it
+knowledge-->information:done
 }}}}}}
 
 ```ruby
