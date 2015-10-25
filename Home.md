@@ -7,3 +7,5 @@ information->+knowledge: Transfer
 note right of knowledge:think about it
 knowledge-->information:done
 }}}}}}
+```xml:/pom.xml
+```
