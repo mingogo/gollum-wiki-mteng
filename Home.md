@@ -3,6 +3,6 @@
 >Information is not knowledge. ~Albert Einstein
 
 {{{{{{ napkin
-    alice->bob: Test
+    Information->Knowledge: Transfer
     bob->alice: Test response
 }}}}}}
