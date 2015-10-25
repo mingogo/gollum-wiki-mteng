@@ -14,4 +14,4 @@ end
 ~~~~~~~~
 Here comes some code.
 ~~~~~~~~
-```xml:/home/ubuntu/wiki/pom.xml```
+```xml:/pom.xml```
