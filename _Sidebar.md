@@ -1,4 +1,1 @@
-This is a test
-
-1. One
-2. Two
+[Gollum Home](https://github.com/gollum/gollum/wiki)
