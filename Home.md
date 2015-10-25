@@ -6,8 +6,11 @@
     Information->Knowledge: Transfer
 }}}}}}
 
-```
+```ruby
 def foo
     puts 'bar'
 end
 ```
+~~~~~~~~
+Here comes some code.
+~~~~~~~~
