@@ -14,6 +14,4 @@ end
 ~~~~~~~~
 Here comes some code.
 ~~~~~~~~
-```
-~/wiki/pom.xml
-```
+```xml:~/wiki/pom.xml```
