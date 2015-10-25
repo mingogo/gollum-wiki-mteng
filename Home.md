@@ -14,3 +14,6 @@ end
 ~~~~~~~~
 Here comes some code.
 ~~~~~~~~
+```
+~/wiki/pom.xml
+```
