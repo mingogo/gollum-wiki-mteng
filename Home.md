@@ -5,3 +5,9 @@
 {{{{{{ napkin
     Information->Knowledge: Transfer
 }}}}}}
+
+```
+def foo
+    puts 'bar'
+end
+```
