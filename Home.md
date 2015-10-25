@@ -4,5 +4,4 @@
 
 {{{{{{ napkin
     Information->Knowledge: Transfer
-    bob->alice: Test response
 }}}}}}
