@@ -2,6 +2,6 @@
 
 >Information is not knowledge. ~Albert Einstein
 
-{{{{{{ blue-modern
+{{{{{{ napkin
     Information->Knowledge: Transfer
 }}}}}}
