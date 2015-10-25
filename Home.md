@@ -6,6 +6,7 @@
     Information->+Knowledge: Transfer
     note right of Knowledge
         think about it
+    end note
     knowledge-->-Information:done
 }}}}}}
 
