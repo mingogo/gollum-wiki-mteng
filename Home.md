@@ -2,7 +2,7 @@
 
 >Information is not knowledge. ~Albert Einstein
 
-{{{{{{ blue-modern
+{{{{{{ napkin
     alice->bob: Test
     bob->alice: Test response
 }}}}}}
