@@ -4,9 +4,9 @@
 
 {{{{{{ napkin
     Information->+Knowledge: Transfer
-    note left of Knowledge
+    note right of Knowledge
         think about it
-    knowledge-->Information:done
+    knowledge-->-Information:done
 }}}}}}
 
 ```ruby
