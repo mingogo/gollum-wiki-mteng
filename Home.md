@@ -4,7 +4,6 @@
 
 {{{{{{ napkin
     Information->+Knowledge: Transfer
-    note right of Knowledge:think about it
     knowledge-->Information:done
 }}}}}}
 
