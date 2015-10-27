@@ -6,5 +6,4 @@
 information->+knowledge: become
 note right of knowledge:reflaction
 knowledge-->information:
-information<-information
 }}}}}}
