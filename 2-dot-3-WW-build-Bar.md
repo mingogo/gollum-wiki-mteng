@@ -1,0 +1,1 @@
+http://us.battle.net/d3/en/forum/topic/18706416963

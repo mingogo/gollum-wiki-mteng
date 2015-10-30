@@ -1,3 +1,9 @@
-##Ming's personal wiki
+## Ming's Wiki
 
-It serves me since I have a crappy memory. 
+>Information is not knowledge. ~Albert Einstein
+
+{{{{{{ napkin
+information->+knowledge: become
+note right of knowledge:reflaction
+knowledge-->information:
+}}}}}}

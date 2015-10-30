@@ -1,0 +1,119 @@
+drop table D5P_CATEGORY_BINVAL;
+drop table D5P_CATEGORY_BUNDLE;
+drop table D5P_CATEGORY_NAMES;
+drop table D5P_CATEGORY_REFS;
+drop table D5P_CONTACTS_BINVAL;
+drop table D5P_CONTACTS_BUNDLE;
+drop table D5P_CONTACTS_NAMES;
+drop table D5P_CONTACTS_REFS;
+drop table D5P_DAM_BINVAL;
+drop table D5P_DAM_BUNDLE;
+drop table D5P_DAM_NAMES;
+drop table D5P_DAM_REFS;
+drop table D5P_DATA_BINVAL;
+drop table D5P_DATA_BUNDLE;
+drop table D5P_DATA_NAMES;
+drop table D5P_DATA_REFS;
+drop table D5P_DMS_BINVAL;
+drop table D5P_DMS_BUNDLE;
+drop table D5P_DMS_NAMES;
+drop table D5P_DMS_REFS;
+drop table D5P_DS_REP_DATASTORE;
+drop table D5P_FEATURED_ARTICLES_BUNDLE;
+drop table D5P_FORUM_BINVAL;
+drop table D5P_FORUM_BUNDLE;
+drop table D5P_FORUM_NAMES;
+drop table D5P_FORUM_REFS;
+drop table D5P_FS_REP_FSENTRY;
+drop table D5P_FS_VERSION_FSENTRY;
+drop table D5P_FS_WS_FSENTRY;
+drop table D5P_GATHER_CONTENTS_BINVAL;
+drop table D5P_GATHER_CONTENTS_BUNDLE;
+drop table D5P_GATHER_CONTENTS_NAMES;
+drop table D5P_GATHER_CONTENTS_REFS;
+drop table D5P_GOOGLESITEMAPS_BINVAL;
+drop table D5P_GOOGLESITEMAPS_BUNDLE;
+drop table D5P_GOOGLESITEMAPS_NAMES;
+drop table D5P_GOOGLESITEMAPS_REFS;
+drop table D5P_IMAGING_BINVAL;
+drop table D5P_IMAGING_BUNDLE;
+drop table D5P_IMAGING_NAMES;
+drop table D5P_IMAGING_REFS;
+drop table D5P_MESSAGES_BINVAL;
+drop table D5P_MESSAGES_BUNDLE;
+drop table D5P_MESSAGES_NAMES;
+drop table D5P_MESSAGES_REFS;
+drop table D5P_PROFILES_BINVAL;
+drop table D5P_PROFILES_BUNDLE;
+drop table D5P_PROFILES_NAMES;
+drop table D5P_PROFILES_REFS;
+drop table D5P_RESOURCES_BINVAL;
+drop table D5P_RESOURCES_BUNDLE;
+drop table D5P_RESOURCES_NAMES;
+drop table D5P_RESOURCES_REFS;
+drop table D5P_RSS_BINVAL;
+drop table D5P_RSS_BUNDLE;
+drop table D5P_RSS_NAMES;
+drop table D5P_RSS_REFS;
+drop table D5P_SCRIPTS_BINVAL;
+drop table D5P_SCRIPTS_BUNDLE;
+drop table D5P_SCRIPTS_NAMES;
+drop table D5P_SCRIPTS_REFS;
+drop table D5P_TEMPLATES_BINVAL;
+drop table D5P_TEMPLATES_BUNDLE;
+drop table D5P_TEMPLATES_NAMES;
+drop table D5P_TEMPLATES_REFS;
+drop table D5P_VERSION_BINVAL;
+drop table D5P_VERSION_BUNDLE;
+drop table D5P_VERSION_NAMES;
+drop table D5P_VERSION_REFS;
+drop table D5P_WORKFLOW_BINVAL;
+drop table D5P_WORKFLOW_BUNDLE;
+drop table D5P_WORKFLOW_NAMES;
+drop table D5P_WORKFLOW_REFS;
+
+
+
+drop table D5P_CONFIG_BINVAL;
+drop table D5P_CONFIG_BUNDLE;
+drop table D5P_CONFIG_NAMES;
+drop table D5P_CONFIG_REFS;
+drop table D5P_DEFAULT_BINVAL;
+drop table D5P_DEFAULT_BUNDLE;
+drop table D5P_DEFAULT_NAMES;
+drop table D5P_DEFAULT_REFS;
+drop table D5P_MGNLSYSTEM_BINVAL;
+drop table D5P_MGNLSYSTEM_BUNDLE;
+drop table D5P_MGNLSYSTEM_NAMES;
+drop table D5P_MGNLSYSTEM_REFS;
+drop table D5P_MGNLVERSION_BINVAL;
+drop table D5P_MGNLVERSION_BUNDLE;
+drop table D5P_MGNLVERSION_NAMES;
+drop table D5P_MGNLVERSION_REFS;
+drop table D5P_USERGROUPS_BINVAL;
+drop table D5P_USERGROUPS_BUNDLE;
+drop table D5P_USERGROUPS_NAMES;
+drop table D5P_USERGROUPS_REFS;
+drop table D5P_USERROLES_BINVAL;
+drop table D5P_USERROLES_BUNDLE;
+drop table D5P_USERROLES_NAMES;
+drop table D5P_USERROLES_REFS;
+drop table D5P_USERS_BINVAL;
+drop table D5P_USERS_BUNDLE;
+drop table D5P_USERS_NAMES;
+drop table D5P_USERS_REFS;
+drop table D5P_WEBSITE_BINVAL;
+drop table D5P_WEBSITE_BUNDLE;
+drop table D5P_WEBSITE_NAMES;
+drop table D5P_WEBSITE_REFS;
+
+
+
+
+
+
+
+
+
+
+
