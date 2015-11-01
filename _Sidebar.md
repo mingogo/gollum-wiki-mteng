@@ -4,7 +4,7 @@
 
 [mode_rewrite cheat sheet](http://www.cheatography.com/davechild/cheat-sheets/mod-rewrite/)
 
-[JCR cheat sheet](https://wiki.magnolia-cms.com/display/WIKI/JCR+Query+Cheat+Sheet)
+[JCR cheat sheet for Magnolia](https://wiki.magnolia-cms.com/display/WIKI/JCR+Query+Cheat+Sheet)
 
 [regex cheat sheet](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 
