@@ -5,3 +5,4 @@ Therefore now we are able to publish pages from one author to another author.
 
 What do you want to do next?
 having another public instance (9667) and 8667 -> 9667
+having exception: someone is trying to impersonate author instance
