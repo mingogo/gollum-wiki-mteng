@@ -1,0 +1,1 @@
+[here](http://stackoverflow.com/questions/21425012/configure-sonar-to-exlude-files-from-maven-pom-xml)
