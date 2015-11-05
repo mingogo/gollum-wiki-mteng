@@ -1,0 +1,1 @@
+You can get the instruction from [here](http://stackoverflow.com/questions/7144620/reading-properties-file-from-maven-pom-file).
