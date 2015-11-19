@@ -1,0 +1,1 @@
+[here](http://www.theverge.com/2015/7/29/9065973/microsoft-windows-10-keyboard-shortcuts-list)
